@@ -75,7 +75,6 @@ def write_guardian_letters(team, team_name, practice_date):
 
 
 if __name__ == "__main__":
-    print("hello world")
     players = import_csv("soccer_players.csv")
 
     #  Define variables
